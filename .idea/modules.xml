@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.mainModule/com.mainModule.iml" filepath="$PROJECT_DIR$/com.mainModule/com.mainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.restApi.comments/com.restApi.comments.iml" filepath="$PROJECT_DIR$/com.restApi.comments/com.restApi.comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.restApi.posts/com.restApi.posts.iml" filepath="$PROJECT_DIR$/com.restApi.posts/com.restApi.posts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.userMenue/com.userMenue.iml" filepath="$PROJECT_DIR$/com.userMenue/com.userMenue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-11-project.iml" filepath="$PROJECT_DIR$/java-11-project.iml" />
+    </modules>
+  </component>
+</project>
