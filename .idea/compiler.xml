@@ -13,7 +13,7 @@
     <bytecodeTargetLevel target="11">
       <module name="com.mainModule" target="11" />
       <module name="com.restApi.comments" target="11" />
-      <module name="com.restApi.posts" target="11" />
+      <module name="com.restApi.posts" target="9" />
       <module name="java-11-project" target="11" />
     </bytecodeTargetLevel>
   </component>
